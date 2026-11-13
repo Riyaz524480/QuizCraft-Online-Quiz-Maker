@@ -1,0 +1,6 @@
+Copyright (c) 2026 Riyaz Ahmad. All rights reserved.
+
+This project is provided to Riyaz Ahmad for personal use and further development.
+No license is granted to third parties by this notice. The copyright notice
+applies to the original project code and does not override licenses of
+third-party dependencies.
